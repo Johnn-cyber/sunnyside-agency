@@ -214,6 +214,9 @@ footer a{
     display: none;
 }
 @media screen and (max-width:425px){
+  header{
+    padding-top:0;
+  }
     nav{
         padding-top: 1rem;
     }
@@ -357,6 +360,7 @@ footer a{
     }
 
 }
+
 
 
 
