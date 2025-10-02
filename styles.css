@@ -225,6 +225,7 @@ footer a{
         height:50%;
     }
     nav ul{
+      position:fixed;
          display:none;
     }
     ul a{
@@ -356,5 +357,6 @@ footer a{
     }
 
 }
+
 
 
