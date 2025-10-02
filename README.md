@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [Add your solution URL here](https://your-solution-url.com)
-- **Live Site URL:** [Add your live site link here](https://your-live-site-url.com)
+- **Solution URL:** ((https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-2BYhZ_945C)
+- **Live Site URL:** (https://johnn-cyber.github.io/sunnyside-agency/)
 
 ---
 
@@ -75,9 +75,8 @@ Areas I plan to focus on in future projects:
 
 ## Author
 
-- Website - [Your Name](https://your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://twitter.com/yourusername)
+- Frontend Mentor - [@Johnn-cyber](https://www.frontendmentor.io/profile/Johnn-cyber)
+- Twitter - [@happycode_](https://twitter.com/happycode_)
 
 ---
 
