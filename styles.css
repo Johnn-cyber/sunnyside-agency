@@ -93,8 +93,9 @@ h1,h3{
 }
 .col p{
     font-family: "Barlow", sans-serif;
-  font-weight: 600;
+  font-weight: 300;
   font-style: normal;
+  font-size:1rem;
     color: hsl(213, 9%, 39%);
 }
 .first-content h4{
@@ -179,7 +180,7 @@ h1,h3{
 }
 footer{
     display: flex;
-    padding: 2.5rem 0;
+    padding: 4rem 0;
     flex-direction: column;
     gap: 1.25rem;
     align-items: center;
@@ -354,3 +355,4 @@ footer a{
     }
 
 }
+
