@@ -14,6 +14,7 @@ body{
     font-size: 18px;
 }
 header{
+  padding-top:1rem;
     background-image: url(images/desktop/image-header.jpg);
     background-size:cover;
     background-position: center;
@@ -355,4 +356,5 @@ footer a{
     }
 
 }
+
 
