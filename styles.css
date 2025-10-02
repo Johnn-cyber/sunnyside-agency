@@ -223,7 +223,6 @@ footer a{
         height:50%;
     }
     nav ul{
-         position: fixed;
          display:none;
     }
     ul a{
@@ -243,8 +242,7 @@ footer a{
             align-self: center;
             align-items: center;
             background: hsl(0, 100%, 100%);
-            gap:15px;
-            transition: ease-in;
+            gap:0.9375rem;
          }
          #cancel{
             display: none;
@@ -253,14 +251,14 @@ footer a{
             display: none; 
     }
     .cancel{
-            font-size: 17px;
-            padding: 6px;
+            font-size: 1.0625rem;
+            padding: 0.375rem;
             display: block;
             color: rgb(0, 0, 0);
             cursor: pointer;
             position: absolute;
-            top: 7px;
-            right: 20px;
+            top: 0.4375rem;
+            right: 1.5rem;
             z-index: 2;
         }
     header{
@@ -354,4 +352,5 @@ footer a{
         grid-template-columns: repeat(2,1fr);
         grid-template-rows: repeat(2,auto);
     }
+
 }
